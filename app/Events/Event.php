@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Quoteel\Events;
 
 abstract class Event {
 

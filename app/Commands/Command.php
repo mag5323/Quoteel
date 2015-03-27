@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace Quoteel\Commands;
 
 abstract class Command {
 

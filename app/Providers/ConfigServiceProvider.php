@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace Quoteel\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
